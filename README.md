@@ -102,5 +102,3 @@ Here are the challenges as generated exactly by ChatGPT. I may change them sligh
 
 30. **Network Programming**:
     Create a simple chat server and client using the `tokio` crate.
-
-These challenges will help you get familiar with Rust's syntax, standard library, and unique features like ownership and borrowing. As you progress, you'll also get a taste of more advanced concepts and libraries in the Rust ecosystem.
