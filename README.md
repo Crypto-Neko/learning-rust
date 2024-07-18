@@ -5,6 +5,8 @@ My goal with this project is to learn the syntax and logic of rust so that I can
 To accomplish this, I've had ChatGPT generate an extensive list of challenges for me. Some of them are fairly simple, but I'm going to do them anyway as I think getting some short, quick bursts of practice at the beginning can be helpful.
 I should have all of these done in a week or so and then I can get started on NyaaCrypt.
 
+Here are the challenges as generated exactly by ChatGPT. I may change them slightly in the future if they're not optimal for some reason.
+
 ### Basic Challenges
 
 1. **Hello World**:
